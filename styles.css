@@ -1,0 +1,547 @@
+.wrapper {
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    width: 100%; 
+    height: 100%;
+     position: relative; 
+     background: white;
+}
+
+.background-shape {
+    width: 1457px;
+    height: 112px;
+    left: -17px;
+    top: -23px;
+    position: absolute;
+    background: rgba(189, 217, 158, 0.59);
+}
+
+.img-fun {
+    width: 343px;
+    height: 271px;
+    left: 1009px;
+    top: 143px;
+    position: absolute;
+}
+
+.img-audience {
+    width: 385px;
+    height: 249px;
+    left: 120px;
+    top: 154px;
+    position: absolute;
+}
+
+.img-faculty {
+    width: 571px;
+    height: 294px;
+    left: 643px;
+    top: 109px;
+    position: absolute;
+}
+
+.img-oath {
+    width: 529px;
+    height: 294px;
+    left: 259px;
+    top: 132px;
+    position: absolute;
+}
+
+.image-container {
+    width: 676px;
+    height: 360px;
+    left: 407px;
+    top: 99px;
+    position: absolute;
+}
+
+.overlay {
+    width: 676px;
+    height: 360px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: white;
+}
+
+.image {
+    width: 676px;
+    height: 360px;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+.logo-container {
+    width: 540.04px;
+    height: 76px;
+    left: 120px;
+    top: 2px;
+    position: absolute;
+}
+
+.logo {
+    width: 76px;
+    height: 76px;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+.text {
+    width: 458.04px;
+    height: 20.53px;
+    left: 82px;
+    top: 31px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+.welcome-message {
+    width: 872px;
+    height: 34px;
+    left: 297px;
+    top: 498px;
+    position: absolute;
+    color: black;
+    font-size: 30px;
+    font-family: Inter;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+.first-element {
+    width: 1064px;
+    height: 47px;
+    left: 200px;
+    top: 598px;
+    position: absolute;
+    background: #BDD99E;
+    border-radius: 8px;
+    border: 1px #EDE0A7 solid;
+}
+
+.second-element {
+    width: 1051px;
+    height: 35px;
+    left: 204px;
+    top: 604px;
+    position: absolute;
+    background: #4E6A4A;
+    border-radius: 8px;
+    border: 1px #EDE0A7 solid;
+}
+
+.side-bar {
+    width: 97px;
+    height: 69px;
+    left: 1243px;
+    top: 10px;
+    position: absolute;
+}
+
+.bar-section {
+    width: 97px;
+    height: 17.25px;
+    position: absolute;
+    background: #4E6A4A;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border: 1px #EDE0A7 solid;
+}
+
+.bar-section:nth-child(2) {
+    top: 27.60px;
+}
+
+.bar-section:nth-child(3) {
+    top: 51.75px;
+}
+
+
+.circle {
+    width: 12px;
+    height: 11px;
+    position: absolute;
+    border-radius: 9999px;
+}
+
+.circle1 {
+    left: 759px;
+    top: 481px;
+    background: rgba(0, 0, 0, 0.50);
+}
+
+.circle2 {
+    left: 717px;
+    top: 481px;
+    background: rgba(0, 0, 0, 0.50);
+}
+
+.circle3 {
+    left: 780px;
+    top: 481px;
+    background: rgba(0, 0, 0, 0.40);
+}
+
+.circle4 {
+    left: 696px;
+    top: 481px;
+    background: rgba(0, 0, 0, 0.40);
+}
+
+.circle5 {
+    left: 801px;
+    top: 481px;
+    background: rgba(0, 0, 0, 0.20);
+}
+
+.circle6 {
+    left: 675px;
+    top: 481px;
+    background: rgba(0, 0, 0, 0.20);
+}
+
+.circle7 {
+    left: 738px;
+    top: 481px;
+    background: black;
+}
+
+.rectangle {
+    width: 395px;
+    height: 224px;
+    position: absolute;
+    border-radius: 16px;
+}
+
+.rectangle1 {
+    left: 86px;
+    top: 673px;
+    background: #015140;
+}
+
+.rectangle2 {
+    left: 535px;
+    top: 674px;
+    background: #AED2A5;
+}
+
+.rectangle3 {
+    left: 976px;
+    top: 675px;
+    background: #BFFFAF;
+}
+
+.image {
+    position: absolute;
+}
+
+.image1 {
+    width: 303px;
+    height: 231px;
+    left: 474px;
+    top: 667px;
+}
+
+.image2 {
+    width: 297px;
+    height: 238px;
+    left: 21px;
+    top: 664px;
+}
+
+
+.content-box {
+    position: absolute;
+    word-wrap: break-word;
+}
+
+.content-box1 {
+    width: 984px;
+    height: 54px;
+    left: 238px;
+    top: 541px;
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 400;
+}
+
+.content-box2 {
+    width: 223px;
+    height: 81px;
+    left: 250px;
+    top: 751px;
+    color: white;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+}
+
+.content-box3 {
+    width: 223px;
+    height: 54px;
+    left: 711px;
+    top: 765px;
+    color: #116A3A;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+}
+
+.navigation-icon {
+    width: 24px;
+    height: 23px;
+    left: 1211px;
+    top: 609px;
+    position: absolute;
+}
+
+.title {
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    font-family: Montserrat;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+.title1 {
+    width: 310px;
+    left: 188px;
+    top: 705px;
+}
+
+.title2 {
+    width: 325px;
+    height: 36px;
+    left: 1046px;
+    top: 706px;
+    color: #015140;
+}
+
+.title3 {
+    width: 253px;
+    height: 6px;
+    left: 711px;
+    top: 695px;
+    color: #116A2A;
+}
+
+.nav-links {
+    width: 644px;
+    height: 36px;
+    position: absolute;
+    top: 22px;
+    left: 567px;
+}
+
+.nav-link {
+    width: 100%;
+    height: 36px;
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    font-family: Montserrat;
+    word-wrap: break-word;
+}
+
+.nav-link:nth-child(1) {
+    font-weight: 800;
+}
+
+.nav-link:nth-child(2) {
+    left: 143.69px;
+    font-weight: 900;
+}
+
+.nav-link:nth-child(3) {
+    left: 301.84px;
+    font-weight: 800;
+}
+
+.nav-link:nth-child(4) {
+    left: 437.26px;
+    font-weight: 800;
+}
+
+
+.gallery-image {
+    width: 416px;
+    height: 361px;
+    left: 857px;
+    top: 609px;
+    position: absolute;
+}
+
+.green-background {
+    width: 1457px;
+    height: 127px;
+    left: -25px;
+    top: 903px;
+    position: absolute;
+    background: #4E6A4A;
+}
+
+.info-box {
+    width: 200px;
+    height: 81px;
+    left: 1164px;
+    top: 746px;
+    position: absolute;
+    color: #015140;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.custom-button {
+    position: absolute;
+    border-radius: 90px;
+    border: 1px solid;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.button-background {
+    position: absolute;
+    border-radius: 90px;
+    border: 1px solid;
+}
+
+.button-text {
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    font-family: Montserrat;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+
+.button2 {
+    width: 157px;
+    height: 36px;
+    left: 250px;
+    top: 841px;
+    background: #00917C;
+}
+
+.button3 {
+    width: 279px;
+    height: 37px;
+    left: 1081px;
+    top: 844px;
+    background: #184D47;
+}
+
+.button4 {
+    width: 229.69px;
+    height: 30px;
+    left: 704.31px;
+    top: 829px;
+    background: #184D47;
+}
+
+
+.triangle {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 15px 0 13px 15px;
+    border-color: transparent transparent transparent white;
+    position: absolute;
+}
+
+.triangle1 {
+    left: 1330px;
+    top: 851px;
+}
+
+.triangle2 {
+    left: 900px;
+    top: 833px;
+}
+
+.triangle3 {
+    left: 428.87px;
+    top: 845px;
+}
+
+.social-icons {
+    width: 336px;
+    left: 1009px;
+    top: 924px;
+    position: absolute;
+}
+
+.icon {
+    position: absolute;
+}
+
+.facebook {
+    width: 61.33px;
+    height: 57.25px;
+    left: 274.67px;
+    top: 10.98px;
+}
+
+.instagram {
+    width: 84.65px;
+    height: 80px;
+    left: 172.75px;
+    top: 0;
+}
+
+.twitter {
+    width: 69.10px;
+    height: 61.18px;
+    left: 86.38px;
+    top: 9.41px;
+}
+
+.youtube {
+    width: 69.10px;
+    height: 61.18px;
+    left: 0;
+    top: 9.41px;
+}
+
+.footer-text {
+    max-width: 400px;
+  }
+  
+  .description {
+    width: 780px; 
+    height: 62px; 
+    left: 100px; 
+    top: 946px; 
+    position: absolute; 
+    color: white; 
+    font-size: 18px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .college-name {
+    width: 814px; 
+    left: 97px; 
+    top: 900px; 
+    position: absolute; 
+    color: white; 
+    font-size: 30px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    word-wrap: break-word;
+  }
